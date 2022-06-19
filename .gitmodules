@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "QuantNorm"]
+	path = QuantNorm
+	url = https://github.com/tengfei-emory/quantnorm
+	shallow = true
+	registered = true
+[submodule "SLTCA"]
+	path = SLTCA
+	url = https://github.com/tengfei-emory/sltca
+	shallow = true
+	registered = true

@@ -1,0 +1,10 @@
+[
+  {
+    "package": "QuantNorm",
+    "oncran": true
+  },
+  {
+    "package": "SLTCA",
+    "oncran": true
+  }
+]
